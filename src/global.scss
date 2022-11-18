@@ -1,0 +1,19 @@
+.container {
+	margin: 0 auto;
+	max-width: 1400px;
+	padding: 0px 30px;
+}
+
+.tableHeader {
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;
+}
+
+.textCenter {
+	text-align: center;
+}
+
+.bgGray {
+	background-color: rgb(216, 216, 216);
+}

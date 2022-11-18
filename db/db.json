@@ -1,0 +1,56 @@
+{
+  "companies": [
+    {
+      "address": "ул. Малиновского",
+      "name": "Test",
+      "id": "Hfjooie"
+    },
+    {
+      "address": "г. Ростов-на-Дону, ул. Красноармейская, д. 311",
+      "name": "Adept",
+      "id": "52rUnFK"
+    },
+    {
+      "name": "tinkov",
+      "address": "г. Самара, ул Долговязая, д. 17а",
+      "id": "0Bemch4"
+    }
+  ],
+  "employees": [
+    {
+      "firstName": "Александр",
+      "secondName": "Мартыненко",
+      "position": "Разработчик",
+      "companyId": "Hfjooie",
+      "id": 1
+    },
+    {
+      "firstName": "Александр",
+      "secondName": "Мартыненко",
+      "position": "Разработчик",
+      "companyId": "Hfjooie",
+      "id": 2
+    },
+    {
+      "firstName": "Егор",
+      "secondName": "Крылов",
+      "position": "менеджер",
+      "companyId": "52rUnFK",
+      "id": 3
+    },
+    {
+      "firstName": "Егор",
+      "secondName": "Крылов",
+      "position": "менеджер",
+      "companyId": "52rUnFK",
+      "id": 4
+    },
+    {
+      "firstName": "Егор",
+      "secondName": "Крылов",
+      "position": "менеджер",
+      "companyId": "52rUnFK",
+      "id": 5
+    }
+  ]
+}
